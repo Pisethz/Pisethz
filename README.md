@@ -63,15 +63,21 @@ Build practical, secure technology that turns complex problems into simple solut
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e,16213e&title_color=FFD700&text_color=e6e6e6&icon_color=00F7FF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&hide_border=true&background=1A1A2E16213E&ring=FFD700&fire=FFD700&currStreakLabel=00F7FF&sideLabels=e6e6e6&currStreakNum=ffffff&sideNums=ffffff&dates=8892b0" width="49%" />
+<!-- GITHUB STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=1a1a2e,16213e&title_color=FFD700&text_color=e6e6e6&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" width="49%" />
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="48%" />
+
+<br/><br/>
+
+<!-- TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" width="48%" />
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" width="48%" />
 
 </div>
-
-<br/>
 
 ## 📈 Activity
 
