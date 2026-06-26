@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Piseth+Chan&fontSize=50&fontColor=FFD700&fontAlignY=35&animation=fadeIn&desc=Full-Stack+Developer+%7C+IoT+Engineer+%7C+Cyber+Security+Enthusiast&descAlignY=58&descSize=18&descColor=00F7FF" width="100%"/>
+<!-- MODERN HEADER (CLEAN GRADIENT + SAAS STYLE) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1a,50:111827,100:0b0f1a&height=220&section=header&text=Piseth%20Chan&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cybersecurity%20Engineer&descAlignY=65&descSize=16&descColor=38bdf8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=720&height=50&lines=Building+intelligent+systems+with+AI+%26+IoT;Securing+the+web%2C+one+line+at+a+time;From+Cambodia+to+the+World" alt="Typing SVG" />
+<!-- MODERN TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+AI+%26+IoT+systems;Designing+secure+modern+web+applications;From+Cambodia+to+global+engineering;Turning+ideas+into+real+systems" />
+
 
 <sub>aka <b>JackyJackyHunt</b> · <b>Stin</b></sub>
 
