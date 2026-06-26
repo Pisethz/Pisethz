@@ -63,21 +63,20 @@ Build practical, secure technology that turns complex problems into simple solut
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" width="48%" />
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&hide_border=true&background=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="48%" />
+<!-- PROFILE STATS (MAIN CARD) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9" width="100%" />
 
 <br/><br/>
 
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" width="48%" />
+<!-- STREAK + LANGUAGES -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&hide_border=true&background=0d1117&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="49%" />
 
-<!-- TROPHIES -->
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%"/>
+<br/><br/>
+
+<!-- TROPHIES (CLEAN VERSION) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
 
 </div>
 
