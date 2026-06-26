@@ -1,14 +1,17 @@
 <div align="center">
+<!-- GLASS MODERN HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:0f172a,100:0b1220&height=200&section=header&text=Piseth%20Chan&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cybersecurity%20Engineer&descAlignY=65&descSize=16&descColor=38bdf8" width="100%"/>
 
-<!-- MODERN HEADER (CLEAN GRADIENT + SAAS STYLE) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1a,50:111827,100:0b0f1a&height=220&section=header&text=Piseth%20Chan&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cybersecurity%20Engineer&descAlignY=65&descSize=16&descColor=38bdf8" width="100%"/>
+<!-- CLEAN MODERN TYPING -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Architecting+scalable+AI+%26+IoT+systems;Developing+secure+full-stack+applications;Building+real-world+embedded+systems;From+Cambodia+to+global+engineering" />
 
-<!-- MODERN TYPING EFFECT -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+AI+%26+IoT+systems;Designing+secure+modern+web+applications;From+Cambodia+to+global+engineering;Turning+ideas+into+real+systems" />
+<br/>
 
-
+<!-- MINIMAL BADGE STYLE -->
+<img src="https://img.shields.io/badge/Status-Active%20Developer-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20IoT-0f172a?style=for-the-badge&logo=raspberrypi&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Location-Cambodia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
 <sub>aka <b>JackyJackyHunt</b> · <b>Stin</b></sub>
-
 <br/><br/>
 
 <a href="https://github.com/Pisethz?tab=followers"><img src="https://img.shields.io/github/followers/Pisethz?style=for-the-badge&color=FFD700&logo=github&logoColor=FFD700&labelColor=1a1a2e" /></a>
