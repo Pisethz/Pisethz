@@ -63,8 +63,7 @@ Build practical, secure technology that turns complex problems into simple solut
 <div align="center">
 
 <!-- HEADER CARD (PROFILE SUMMARY) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9" width="100%" />
 <br/><br/>
 
 <!-- MAIN STATS (GLASS DASHBOARD STYLE) -->
@@ -80,10 +79,6 @@ Build practical, secure technology that turns complex problems into simple solut
 
 <!-- TROPHIES (CLEAN MODERN) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6" width="48%" />
-</div>
-
-<!-- TROPHIES (CLEAN VERSION) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%"/>
 </div>
 ## 📈 Activity
 
