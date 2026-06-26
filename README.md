@@ -62,17 +62,25 @@ Build practical, secure technology that turns complex problems into simple solut
 ## 📊 GitHub Analytics
 <div align="center">
 
-<!-- PROFILE STATS (MAIN CARD) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=c9d1d9" width="100%" />
+<!-- HEADER CARD (PROFILE SUMMARY) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%" />
 
 <br/><br/>
 
-<!-- STREAK + LANGUAGES -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&hide_border=true&background=0d1117&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="49%" />
+<!-- MAIN STATS (GLASS DASHBOARD STYLE) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=38bdf8" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%" />
+<!-- STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e5e7eb&currStreakNum=ffffff&sideNums=e5e7eb&dates=94a3b8" width="48%" />
 
 <br/><br/>
+
+<!-- LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb" width="48%" />
+
+<!-- TROPHIES (CLEAN MODERN) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6" width="48%" />
+</div>
 
 <!-- TROPHIES (CLEAN VERSION) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%"/>
