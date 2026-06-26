@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/IoT%20Developer-38bdf8?style=for-the-badge&logo=raspberrypi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Cyber%20Security-6366f1?style=for-the-badge&logo=hackaday&logoColor=white"/>
 <br/><br/>
-<sub>aka <b>JackyJackyHunt</b> · <b>Stin</b></sub>
+<sub>Akara<b>JackyJackyHunt</b> · <b>Stin</b><b>Piseth</b></sub>
 <br/><br/>
 
 <a href="https://github.com/Pisethz?tab=followers"><img src="https://img.shields.io/github/followers/Pisethz?style=for-the-badge&color=FFD700&logo=github&logoColor=FFD700&labelColor=1a1a2e" /></a>
@@ -46,8 +46,6 @@ Build practical, secure technology that turns complex problems into simple solut
 ```
 
 <br/>
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
