@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/AI%20Engineer-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
 <img src="https://img.shields.io/badge/IoT%20Developer-38bdf8?style=for-the-badge&logo=raspberrypi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Cyber%20Security-6366f1?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<br/><br/>
 <sub>aka <b>JackyJackyHunt</b> · <b>Stin</b></sub>
 <br/><br/>
 
