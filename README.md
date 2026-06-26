@@ -78,8 +78,6 @@ Build practical, secure technology that turns complex problems into simple solut
 <!-- TROPHIES (CLEAN VERSION) -->
 <img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
 
-</div>
-
 ## 📈 Activity
 
 <div align="center">
