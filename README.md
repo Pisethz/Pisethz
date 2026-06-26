@@ -78,7 +78,7 @@ Build practical, secure technology that turns complex problems into simple solut
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb" width="48%" />
 
 <!-- TROPHIES (CLEAN MODERN) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%" />
 </div>
 ## 📈 Activity
 
