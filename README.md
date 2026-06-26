@@ -1,92 +1,64 @@
 <div align="center">
 
-# 👋 Hi, I'm Piseth Chan (Bong Seth)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0a84ff,100:00f7ff&text=PISETH%20CHAN&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;IoT+Engineer;Cyber+Security+Enthusiast;AI+Developer;Building+the+Future+with+Technology" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;IoT+Engineer;AI+Developer;Cyber+Security+Enthusiast;Building+the+Future+with+Technology"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 💻 About Me
 
-```yaml
-Name: Piseth Chan
-Location: Cambodia 🇰🇭
-Role: Full-Stack Developer & IoT Engineer
-Interests:
-  - Artificial Intelligence
-  - Cyber Security
-  - IoT & Robotics
-  - Cloud Computing
-  - Open Source
+```bash
+$ whoami
+Piseth Chan
+
+$ role
+Full-Stack Developer & IoT Engineer
+
+$ interests
+AI • IoT • Robotics • Cyber Security • Cloud Computing
+
+$ location
+Cambodia 🇰🇭
+
+$ mission
+Building the Future with Technology 🚀
 ```
 
 ---
 
-# 🛠️ Tech Stack
-
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![PHP](https://skillicons.dev/icons?i=php)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Laravel](https://skillicons.dev/icons?i=laravel)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### DevOps & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![RaspberryPi](https://skillicons.dev/icons?i=raspberrypi)
-
----
-
-# 📊 GitHub Statistics
+## ⚡ Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,react,nextjs,nodejs,laravel,mysql,html,css,tailwind,docker,linux,git,raspberrypi&perline=8" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=tokyonight&column=4"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pisethz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Pisethz&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisethz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Featured Projects
+## 🏆 GitHub Trophies
 
-🚀 Device and Network Scanner  
-🔒 PisethIP Security Toolkit  
-🎥 Pisethz Screen Recorder  
-🖼️ StegoFolder – Hide Files in Images  
-📶 WiFi QR Generator  
-🌾 Smart Agriculture IoT System
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pisethz&theme=tokyo-night"/>
@@ -94,25 +66,48 @@ Interests:
 
 ---
 
-# 🌐 Connect With Me
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pisethz/Pisethz/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/Pisethz/Pisethz/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🚀 Featured Projects
+
+- 🌾 Smart Agriculture IoT System
+- 🏭 Industry IoT Monitoring System
+- 🤖 AI Telegram Assistant
+- 🚗 Smart Auto Parking System
+- 🔒 Cyber Security Tools
+- 💳 E-Commerce with Bakong KHQR
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/Pisethz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/pisethchan020910/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:pisethch79@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pisethz&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
 <div align="center">
 
-### ⚡ "Building the Future with AI, IoT, and Cyber Security"
+### ⚡ Passion • Purpose • Impact ⚡
+
+<img src="https://komarev.com/ghpvc/?username=Pisethz&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
