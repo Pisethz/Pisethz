@@ -60,7 +60,6 @@ Build practical, secure technology that turns complex problems into simple solut
 <br/>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
 
 <!-- PROFILE STATS (MAIN CARD) -->
@@ -76,8 +75,8 @@ Build practical, secure technology that turns complex problems into simple solut
 <br/><br/>
 
 <!-- TROPHIES (CLEAN VERSION) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Pisethz&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pisethz&theme=github_dark" width="100%"/>
+</div>
 ## 📈 Activity
 
 <div align="center">
