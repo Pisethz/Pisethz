@@ -1,22 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Piseth+Chan&fontSize=50&fontColor=FFD700&fontAlignY=35&animation=fadeIn&desc=Full-Stack+Developer+%7C+IoT+Engineer+%7C+Cyber+Security+Enthusiast&descAlignY=58&descSize=18&descColor=00F7FF" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:0f172a&height=240&section=header&text=Piseth%20Chan&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cybersecurity%20Engineer&descAlignY=65&descSize=16&descColor=38bdf8" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=720&height=50&lines=Building+intelligent+systems+with+AI+%26+IoT;Securing+the+web%2C+one+line+at+a+time;From+Cambodia+to+the+World" alt="Typing SVG" />
+<!-- TYPING EFFECT -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Designing+scalable+web+systems;Building+smart+IoT+architectures;Securing+modern+applications;From+Cambodia+to+global+innovation" />
 
-<sub>aka <b>JackyJackyHunt</b> · <b>Stin</b></sub>
+<br/>
 
-<br/><br/>
+<!-- BADGES -->
+<a href="https://github.com/Pisethz?tab=followers">
+<img src="https://img.shields.io/github/followers/Pisethz?style=for-the-badge&logo=github&color=0f172a&labelColor=1e293b&logoColor=38bdf8"/>
+</a>
 
-<a href="https://github.com/Pisethz?tab=followers"><img src="https://img.shields.io/github/followers/Pisethz?style=for-the-badge&color=FFD700&logo=github&logoColor=FFD700&labelColor=1a1a2e" /></a>
-<img src="https://komarev.com/ghpvc/?username=Pisethz&label=Profile+Views&color=FFD700&style=for-the-badge&base=0&abbreviated=true" />
-<img src="https://img.shields.io/badge/Location-Cambodia-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=FFD700" />
+<img src="https://komarev.com/ghpvc/?username=Pisethz&style=for-the-badge&color=38bdf8" />
+
+<img src="https://img.shields.io/badge/Country-Cambodia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8"/>
 
 </div>
 
-<p align="center"><i>"Engineering reliable software and intelligent IoT systems — one line of code at a time."</i></p>
-
 <br/>
+
+<p align="center">
+<i style="color:#94a3b8;">
+"Engineering scalable software systems, intelligent IoT devices, and secure digital solutions."
+</i>
+</p>
 
 ## 🧭 About Me
 
