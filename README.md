@@ -41,23 +41,58 @@ Build practical, secure technology that turns complex problems into simple solut
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
-**Languages**
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,cs,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css&theme=dark" />
+---
 
-**Frameworks & Runtime**
+### 🌐 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,tailwind&theme=dark" />
+---
 
-**Database · Tools · Platforms**
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,dotnet,express&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,raspberrypi,perl&theme=dark" />
+---
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" />
+
+---
+
+### 🔌 IoT / Embedded Systems
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-1f2937?style=for-the-badge&logo=microchip&logoColor=white"/>
+
+---
+
+### 🌐 Networking & Infrastructure
+<img src="https://img.shields.io/badge/MikroTik-293241?style=for-the-badge&logo=router&logoColor=white"/>
+<img src="https://img.shields.io/badge/Huawei-Networking-red?style=for-the-badge&logo=huawei&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-0f172a?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-1e293b?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-111827?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+
+---
+
+### 🧰 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman&theme=dark" />
+
+---
+
+### 📱 Mobile / IoT Apps
+<img src="https://img.shields.io/badge/MIT%20App%20Inventor-1976d2?style=for-the-badge&logo=mit&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT%20Mobile%20Apps-0f172a?style=for-the-badge&logo=android&logoColor=white"/>
 
 </div>
-
-<br/>
 
 ## 📊 GitHub Analytics
 <div align="center">
