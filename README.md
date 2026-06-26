@@ -1,16 +1,17 @@
 <div align="center">
-<!-- GLASS MODERN HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,50:0f172a,100:0b1220&height=200&section=header&text=Piseth%20Chan&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cybersecurity%20Engineer&descAlignY=65&descSize=16&descColor=38bdf8" width="100%"/>
 
-<!-- CLEAN MODERN TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Architecting+scalable+AI+%26+IoT+systems;Developing+secure+full-stack+applications;Building+real-world+embedded+systems;From+Cambodia+to+global+engineering" />
+<!-- 🌊 ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:38bdf8,100:6366f1&height=260&section=header&text=Piseth%20Chan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20IoT%20Engineer%20%7C%20Cybersecurity%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+
+<!-- ⚡ MOVING TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+real-world+AI+%26+IoT+systems;Turning+code+into+smart+machines;Securing+modern+web+applications;From+Cambodia+to+global+engineering+world" />
 
 <br/>
 
-<!-- MINIMAL BADGE STYLE -->
-<img src="https://img.shields.io/badge/Status-Active%20Developer-0f172a?style=for-the-badge&logo=vercel&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20IoT-0f172a?style=for-the-badge&logo=raspberrypi&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Location-Cambodia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
+<!-- ✨ FLOATING STYLE BADGES (ANIMATED LOOK) -->
+<img src="https://img.shields.io/badge/AI%20Engineer-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/IoT%20Developer-38bdf8?style=for-the-badge&logo=raspberrypi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cyber%20Security-6366f1?style=for-the-badge&logo=hackaday&logoColor=white"/>
 <sub>aka <b>JackyJackyHunt</b> · <b>Stin</b></sub>
 <br/><br/>
 
